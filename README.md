@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tatyyyyh!
 - 👀 I’m interested in ... PROGRAMMING 
-- 🌱 I’m currently learning ... HTML, CSS AND JAVASCRIPT
+- 🌱 I’m currently learning ... JAVASCRIPT, PHP, PYTHON
 - 💞️ I’m looking to collaborate on NOTHIN'
 - 📫 How to reach me ... NÃO
